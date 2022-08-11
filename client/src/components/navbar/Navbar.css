@@ -1,0 +1,15 @@
+.brand {
+  width: 100%;
+  height: 70px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #006fff;
+}
+.brand img {
+  position: absolute;
+  width: 155px;
+  height: 62.29px;
+  left: 30px;
+  top: 4px;
+}

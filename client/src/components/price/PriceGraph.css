@@ -1,0 +1,21 @@
+.priceGraph {
+  box-sizing: border-box;
+  position: absolute;
+  width: 60%;
+  height: 407px;
+  left: 28px;
+  top: 217px;
+  background: #ffffff;
+  border: 1px solid #e9e9e9;
+  margin-right: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#d3price {
+  width: 80%;
+  height: 100%;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
